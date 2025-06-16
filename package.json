@@ -1,5 +1,5 @@
 {
-  "name": "message-queue",
+  "name": "email-queue",
   "module": "src/index.ts",
   "type": "module",
   "private": true,
